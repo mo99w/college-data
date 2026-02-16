@@ -9,7 +9,14 @@
             {
               "weekNumber": 0,
               "weekName": "الأسبوع الأول",
-              "files": []
+              "files": [
+                          {
+                            "name": "المحاضره الاولى",
+                            "url": "https://drive.google.com/file/d/1oYcjVTRRzeXbnE_UFM4Puav2nFkX1K51/view?usp=drive_link"
+                          }
+
+                
+                        ]
             },
             {
               "weekNumber": 1,
