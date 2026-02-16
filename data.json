@@ -69,7 +69,10 @@
               "weekNumber": 0,
               "weekName": "الأسبوع الأول",
               "files": [
-                       
+                           {
+                                "name": "محاضرة 1 محاسبه حكوميه",
+                                "url": "https://drive.google.com/uc?export=download&id=1ISIflJHlZF7ISSkT7NrXQdc1CnKQwkBs"
+                          }
               ]
             },
             {
