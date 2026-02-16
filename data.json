@@ -133,7 +133,13 @@
             {
               "weekNumber": 0,
               "weekName": "الأسبوع الأول",
-              "files": []
+              "files": [
+
+                {
+                                "name": "محاضرة 1 رياضه",
+                                "url": "https://drive.google.com/file/d/17r9gZvDVyRznYdaiHqwqzVSap0t6pOZX/view?usp=drivesdk"
+                }
+              ]
             },
             {
               "weekNumber": 1,
