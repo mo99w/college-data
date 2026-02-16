@@ -69,10 +69,7 @@
               "weekNumber": 0,
               "weekName": "الأسبوع الأول",
               "files": [
-                           {
-                                "name": "محاضرة 1 محاسبه",
-                                "url": "https://drive.google.com/file/d/1oYcjVTRRzeXbnE_UFM4Puav2nFkX1K51/view?usp=drive_link"
-                          }
+                           
               ]
             },
             {
@@ -136,8 +133,8 @@
               "files": [
 
                 {
-                                "name": "محاضرة 1 رياضه",
-                                "url": "https://drive.google.com/file/d/17r9gZvDVyRznYdaiHqwqzVSap0t6pOZX/view?usp=drivesdk"
+                  "name": "المحاره الاولى", 
+                  "url": "https://drive.google.com/file/d/17r9gZvDVyRznYdaiHqwqzVSap0t6pOZX/view?usp=drivesdk"
                 }
               ]
             },
