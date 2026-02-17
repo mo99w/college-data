@@ -205,7 +205,13 @@
             {
               "weekNumber": 1,
               "weekName": "الأسبوع الثاني",
-              "files": []
+              "files": [
+                            {
+                              "name": "فيديو تجربه",
+                              "url": "https://drive.google.com/file/d/18phv1HnVwUIzts8Wrcf4usQFbZo65TEa/view?usp=sharing"
+                            }
+              
+              ]
             },
             {
               "weekNumber": 2,
